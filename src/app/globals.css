@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+body{
+  width: 1351px;
+  scrollbar-width: auto;
+  overflow: auto;
+}
